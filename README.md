@@ -4,13 +4,6 @@ nlpnewsbot is a telegram bot that uses a pretrained [NLP model](https://huggingf
 # Key features:
 /summarize (text) - Summarizes your text
 
-/scoop - Latest news from Russia
-
-/link (link) - News summarization from your link
-
-/news - News gathering
-
-
 
 
 
